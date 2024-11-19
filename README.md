@@ -4,9 +4,8 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Oevermann Networks GmbH**
+- 🏢 I'm currently working at **TWT**
 - ⚙️ I use daily: `.cs`, `.cshtml`, `.ps`, `.sql`, `.html`, `.js/ts`, `.css`
 - 🌍 I'm mostly work on **Web Development** projects
 - 🌱 Learning all about **DevOps**, **Headless CMS** and everthing Web-Dev related
 - 📫 Reach me: [twitter.com/fabian_tilmans](https://twitter.com/fabian_tilmans)
-- ⚡️ Fun fact: I'm a huge Star Wars Fan
